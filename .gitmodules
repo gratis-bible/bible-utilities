@@ -1,0 +1,6 @@
+[submodule "data/bibles/osis"]
+	path = data/bibles/osis
+	url = https://github.com/matt-cook/osis-bibles.git
+[submodule "data/bibles/osis-split"]
+	path = data/bibles/osis-split
+	url = https://github.com/matt-cook/osis-bibles.git
