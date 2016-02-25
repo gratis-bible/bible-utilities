@@ -1,0 +1,30 @@
+{
+  "name": "osis-utilities",
+  "version": "1.0.0",
+  "description": "Utility scripts and files for working with the Bible in digital formats.",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-convert": "^0.1.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lookitscook/osis-utilities.git"
+  },
+  "keywords": [
+    "bible",
+    "osis"
+  ],
+  "author": "Matt Cook <matt@lookitscook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lookitscook/osis-utilities/issues"
+  },
+  "homepage": "https://github.com/lookitscook/osis-utilities"
+}

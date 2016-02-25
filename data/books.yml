@@ -1,0 +1,476 @@
+rows:
+  row:
+    -
+      osisID: Gen
+      title: Genesis
+    -
+      osisID: Exod
+      title: Exodus
+    -
+      osisID: Lev
+      title: Leviticus
+    -
+      osisID: Num
+      title: Numbers
+    -
+      osisID: Deut
+      title: Deuteronomy
+    -
+      osisID: Josh
+      title: Joshua
+    -
+      osisID: Judg
+      title: Judges
+    -
+      osisID: Ruth
+      title: Ruth
+    -
+      osisID: 1Sam
+      title: '1 Samuel'
+    -
+      osisID: 2Sam
+      title: '2 Samuel'
+    -
+      osisID: 1Kgs
+      title: '1 Kings'
+    -
+      osisID: 2Kgs
+      title: '2 Kings'
+    -
+      osisID: 1Chr
+      title: '1 Chronicles'
+    -
+      osisID: 2Chr
+      title: '2 Chronicles'
+    -
+      osisID: Ezra
+      title: Ezra
+    -
+      osisID: Neh
+      title: Nehemiah
+    -
+      osisID: Esth
+      title: Esther
+    -
+      osisID: Job
+      title: Job
+    -
+      osisID: Ps
+      title: Psalms
+    -
+      osisID: Prov
+      title: Proverbs
+    -
+      osisID: Eccl
+      title: Ecclesiastes
+    -
+      osisID: Song
+      title: 'Song of Solomon'
+    -
+      osisID: Isa
+      title: Isaiah
+    -
+      osisID: Jer
+      title: Jeremiah
+    -
+      osisID: Lam
+      title: Lamentations
+    -
+      osisID: Ezek
+      title: Ezekiel
+    -
+      osisID: Dan
+      title: Daniel
+    -
+      osisID: Hos
+      title: Hosea
+    -
+      osisID: Joel
+      title: Joel
+    -
+      osisID: Amos
+      title: Amos
+    -
+      osisID: Obad
+      title: Obadiah
+    -
+      osisID: Jonah
+      title: Jonah
+    -
+      osisID: Mic
+      title: Micah
+    -
+      osisID: Nah
+      title: Nahum
+    -
+      osisID: Hab
+      title: Habakkuk
+    -
+      osisID: Zeph
+      title: Zephaniah
+    -
+      osisID: Hag
+      title: Haggai
+    -
+      osisID: Zech
+      title: Zechariah
+    -
+      osisID: Mal
+      title: Malachi
+    -
+      osisID: Matt
+      title: Matthew
+    -
+      osisID: Mark
+      title: Mark
+    -
+      osisID: Luke
+      title: Luke
+    -
+      osisID: John
+      title: John
+    -
+      osisID: Acts
+      title: Acts
+    -
+      osisID: Rom
+      title: Romans
+    -
+      osisID: 1Cor
+      title: '1 Corinthians'
+    -
+      osisID: 2Cor
+      title: '2 Corinthians'
+    -
+      osisID: Gal
+      title: Galatians
+    -
+      osisID: Eph
+      title: Ephesians
+    -
+      osisID: Phil
+      title: Philippians
+    -
+      osisID: Col
+      title: Colossians
+    -
+      osisID: 1Thess
+      title: '1 Thessalonians'
+    -
+      osisID: 2Thess
+      title: '2 Thessalonians'
+    -
+      osisID: 1Tim
+      title: '1 Timothy'
+    -
+      osisID: 2Tim
+      title: '2 Timothy'
+    -
+      osisID: Titus
+      title: Titus
+    -
+      osisID: Phlm
+      title: Philemon
+    -
+      osisID: Heb
+      title: Hebrews
+    -
+      osisID: Jas
+      title: James
+    -
+      osisID: 1Pet
+      title: '1 Peter'
+    -
+      osisID: 2Pet
+      title: '2 Peter'
+    -
+      osisID: 1John
+      title: '1 John'
+    -
+      osisID: 2John
+      title: '2 John'
+    -
+      osisID: 3John
+      title: '3 John'
+    -
+      osisID: Jude
+      title: Jude
+    -
+      osisID: Rev
+      title: Revelation
+    -
+      osisID: Tob
+      title: Tobit
+    -
+      osisID: Jdt
+      title: Judith
+    -
+      osisID: EsthGr
+      title: 'Greek Esther'
+    -
+      osisID: AddEsth
+      title: 'Additions to Esther'
+    -
+      osisID: Wis
+      title: Wisdom
+    -
+      osisID: SirP
+      title: 'Sirach Prologue'
+    -
+      osisID: Sir
+      title: Sirach
+    -
+      osisID: Bar
+      title: Baruch
+    -
+      osisID: EpJer
+      title: 'Letter of Jeremiah'
+    -
+      osisID: DanGr
+      title: 'Greek Daniel'
+    -
+      osisID: AddDan
+      title: 'Additions to Daniel'
+    -
+      osisID: PrAzar
+      title: 'Prayer of Azariah'
+    -
+      osisID: Sus
+      title: Susanna
+    -
+      osisID: Bel
+      title: 'Bel and the Dragon'
+    -
+      osisID: 1Macc
+      title: '1 Maccabees'
+    -
+      osisID: 2Macc
+      title: '2 Maccabees'
+    -
+      osisID: 3Macc
+      title: '3 Maccabees'
+    -
+      osisID: 4Macc
+      title: '4 Maccabees'
+    -
+      osisID: PrMan
+      title: 'Prayer of Manasseh'
+    -
+      osisID: 1Esd
+      title: '1 Esdras'
+    -
+      osisID: 2Esd
+      title: '2 Esdras'
+    -
+      osisID: AddPs
+      title: 'Psalm 151'
+    -
+      osisID: Odes
+      title: Odes
+    -
+      osisID: PssSol
+      title: 'Psalms of Solomon'
+    -
+      osisID: JoshA
+      title: 'Joshua A'
+    -
+      osisID: JudgB
+      title: 'Judges B'
+    -
+      osisID: TobS
+      title: 'Tobit S'
+    -
+      osisID: SusTh
+      title: Susanna
+    -
+      osisID: DanTh
+      title: Daniel
+    -
+      osisID: BelTh
+      title: 'Bel and the Dragon'
+    -
+      osisID: EpLao
+      title: 'Epistle to the Laodiceans'
+    -
+      osisID: 5Ezra
+      title: '5 Ezra'
+    -
+      osisID: 4Ezra
+      title: '4 Ezra'
+    -
+      osisID: 6Ezra
+      title: '6 Ezra'
+    -
+      osisID: PrSol
+      title: 'Prayer of Solomon'
+    -
+      osisID: PrJer
+      title: 'Prayer of Jeremiah'
+    -
+      osisID: 1En
+      title: '1 Enoch'
+    -
+      osisID: Jub
+      title: Jubilees
+    -
+      osisID: 4Bar
+      title: '4 Baruch'
+    -
+      osisID: 1Meq
+      title: '1 Meqabyan'
+    -
+      osisID: 2Meq
+      title: '2 Meqabyan'
+    -
+      osisID: 3Meq
+      title: '3 Meqabyan'
+    -
+      osisID: Rep
+      title: Reproof
+    -
+      osisID: AddJer
+      title: 'Additions to Jeremiah'
+    -
+      osisID: PsJos
+      title: Pseudo-Josephus
+    -
+      osisID: EpCorPaul
+      title: 'Epistle of the Corinthians to Paul'
+    -
+      osisID: 3Cor
+      title: '3 Corinthians'
+    -
+      osisID: WSir
+      title: 'Words of Sirach'
+    -
+      osisID: PrEuth
+      title: 'Prayer of Euthalius'
+    -
+      osisID: DormJohn
+      title: 'Dormition of John'
+    -
+      osisID: JosAsen
+      title: 'Joseph and Asenath'
+    -
+      osisID: T12Patr
+      title: 'Testaments of the Twelve Patriarchs'
+    -
+      osisID: T12Patr.TAsh
+      title: 'Testament of Asher'
+    -
+      osisID: T12Patr.TBenj
+      title: 'Testament of Benjamin'
+    -
+      osisID: T12Patr.TDan
+      title: 'Testament of Dan'
+    -
+      osisID: T12Patr.TGad
+      title: 'Testament of Gad'
+    -
+      osisID: T12Patr.TIss
+      title: 'Testament of Issachar'
+    -
+      osisID: T12Patr.TJos
+      title: 'Testament of Joseph'
+    -
+      osisID: T12Patr.TJud
+      title: 'Testament of Judah'
+    -
+      osisID: T12Patr.TLevi
+      title: 'Testament of Levi'
+    -
+      osisID: T12Patr.TNaph
+      title: 'Testament of Naphtali'
+    -
+      osisID: T12Patr.TReu
+      title: 'Testament of Reuben'
+    -
+      osisID: T12Patr.TSim
+      title: 'Testament of Simeon'
+    -
+      osisID: T12Patr.TZeb
+      title: 'Testament of Zebulun'
+    -
+      osisID: 2Bar
+      title: '2 Baruch'
+    -
+      osisID: EpBar
+      title: 'Letter of Baruch'
+    -
+      osisID: 5ApocSyrPss
+      title: 'Additional Syriac Psalms'
+    -
+      osisID: JosephusJWvi
+      title: 'Josephus'' Jewish War VI'
+    -
+      osisID: 1Clem
+      title: '1 Clement'
+    -
+      osisID: 2Clem
+      title: '2 Clement'
+    -
+      osisID: IgnEph
+      title: 'Ignatius to the Ephesians'
+    -
+      osisID: IgnMagn
+      title: 'Ignatius to the Magnesians'
+    -
+      osisID: IgnTrall
+      title: 'Ignatius to the Trallians'
+    -
+      osisID: IgnRom
+      title: 'Ignatius to the Romans'
+    -
+      osisID: IgnPhld
+      title: 'Ignatius to the Philadelphians'
+    -
+      osisID: IgnSmyrn
+      title: 'Ignatius to the Smyrnaeans'
+    -
+      osisID: IgnPol
+      title: 'Ignatius to Polycarp'
+    -
+      osisID: PolPhil
+      title: 'Polycarp to the Philippians'
+    -
+      osisID: MartPol
+      title: 'Martyrdom of Polycarp'
+    -
+      osisID: Did
+      title: Didache
+    -
+      osisID: Barn
+      title: Barnabas
+    -
+      osisID: Herm
+      title: 'Shepherd of Hermas'
+    -
+      osisID: Herm.Mand
+      title: 'Shepherd of Hermas, Mandates'
+    -
+      osisID: Herm.Sim
+      title: 'Shepherd of Hermas, Similitudes'
+    -
+      osisID: Herm.Vis
+      title: 'Shepherd of Hermas, Visions'
+    -
+      osisID: Diogn
+      title: Diognetus
+    -
+      osisID: AposCreed
+      title: 'Apostles'' Creed'
+    -
+      osisID: PapFrag
+      title: 'Fragments of Papias'
+    -
+      osisID: RelElders
+      title: 'Reliques of the Elders'
+    -
+      osisID: QuadFrag
+      title: 'Fragment of Quadratus'
+    -
+      osisID: TatDiat
+      title: Diatessaron
+    -
+      osisID: PsMet
+      title: 'Metrical Psalms'
