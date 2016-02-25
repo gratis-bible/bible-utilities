@@ -17,7 +17,8 @@ module.exports = function(grunt) {
   });
 
   grunt.loadNpmTasks('grunt-convert');
+  grunt.loadNpmTasks('grunt-newer');
 
-  grunt.registerTask('osis2yml', ['convert']);
+  grunt.registerTask('osis2yml', ['newer:convert']);
 
 };
