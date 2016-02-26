@@ -10,13 +10,13 @@ module.exports = function(grunt) {
         expand:true,
         cwd: 'data/bibles/osis-split/',
         src: ['**/*.xml'],
-        dest: 'data/bibles/yml/',
+        dest: 'data/bibles/yml-split/',
         ext: '.yml'
       }
     }
   });
 
-  grunt.loadNpmTasks('grunt-convert');
+  grunt.loadTasks('grunt-convert/tasks');
   grunt.loadNpmTasks('grunt-newer');
 
   grunt.registerTask('osis2yml', ['newer:convert']);

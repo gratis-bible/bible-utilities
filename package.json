@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "grunt": "^0.4.5",
-    "grunt-convert": "^0.1.12",
+    "grunt-convert": "https://github.com/matt-cook/grunt-convert/tarball/master",
     "grunt-newer": "^1.1.2"
   },
   "scripts": {
