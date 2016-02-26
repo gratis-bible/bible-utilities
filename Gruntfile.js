@@ -6,19 +6,19 @@ module.exports = function(grunt) {
       options: {
         explicitArray: false,
       },
-      xml2yml: {
+      osis2md: {
         expand:true,
-        cwd: 'data/bibles/osis-split/',
+        cwd: 'data/bibles/osis/',
         src: ['**/*.xml'],
-        dest: 'data/bibles/yml-split/',
-        ext: '.yml'
+        dest: 'data/bibles/md/',
+        ext: '.md'
       }
     }
   });
 
-  grunt.loadTasks('grunt-convert/tasks');
+  grunt.loadNpmTasks('grunt-osis');
   grunt.loadNpmTasks('grunt-newer');
 
-  grunt.registerTask('osis2yml', ['newer:convert']);
+  grunt.registerTask('osis2yml', ['convert']);
 
 };
