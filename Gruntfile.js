@@ -10,7 +10,7 @@ module.exports = function(grunt) {
         expand:true,
         cwd: 'data/bibles/osis/',
         src: ['**/*.xml'],
-        dest: 'data/bibles/md/',
+        dest: 'data/bibles/gh-pages/translation/',
         ext: '.md'
       }
     }
