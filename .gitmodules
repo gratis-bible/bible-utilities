@@ -1,3 +1,6 @@
 [submodule "data/bibles/osis"]
 	path = data/bibles/osis
-	url = https://github.com/matt-cook/osis-bibles.git
+url=https://github.com/matt-cook/bible.git
+[submodule "data/bibles/gh-pages"]
+	path = data/bibles/gh-pages
+	url = https://github.com/matt-cook/bible.git
